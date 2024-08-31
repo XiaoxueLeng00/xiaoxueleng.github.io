@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://github.com/XiaoxueLeng00/xiaoxueleng00.github.io/assets/xiaoxueleng_cv_short.pdf" type="application/pdf" width=100% height=600px>
+<iframe src="https://docs.google.com/viewer?url=https://github.com/XiaoxueLeng00/xiaoxueleng00.github.io/assets/xiaoxueleng_cv_short.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
 
 Education
 ======
