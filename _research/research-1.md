@@ -5,7 +5,7 @@ category: complete
 permalink: /research/research-1
 excerpt: 'This project investigated the effectiveness of EMME compared to other instructional design and learning strategies.'
 date: 2021-03-01
-venue: 'Dr. Fuxing Wang, Dr. Richard Mayer, Tingting Zhao'
+venue: 'Central China Normal University'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'Leng, X., Wang, F., Mayer, R. E., & Zhao, T. (2024). How to train students to engage in text-picture integration for multimedia lessons. <i>British Journal of Educational Technology, 55</i>(3), 1167–1188.'
