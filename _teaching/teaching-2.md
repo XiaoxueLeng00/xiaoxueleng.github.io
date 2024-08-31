@@ -3,7 +3,7 @@ title: "Safety & Technique Use"
 collection: teaching
 type: "Course"
 permalink: /teaching/teaching-2
-venue: "Laboratory Center,School of Psychology, Central China Normal University"
+venue: "Laboratory Center, School of Psychology, Central China Normal University"
 date: 2023-12-01
 location: "City, Country"
 ---
