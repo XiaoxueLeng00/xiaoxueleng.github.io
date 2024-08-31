@@ -8,13 +8,6 @@ date: 2023-12-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I worked as an instructor on this course in 2022 and 2023. In 2022, I teached how to use SMI RED 250; and in 2023, I teached how to use NIRX.
+- Trained over 100 undergraduate and graduate students how to present stimuli, collect data, and analyze data with specific techniques
+- Provided safety trainings on technique use
