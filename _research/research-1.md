@@ -1,7 +1,7 @@
 ---
 title: "How to train students to engage in text‐picture integration for multimedia lessons"
-collection: publications
-category: manuscripts
+collection: research
+category: ongoing
 permalink: /research/research-1
 excerpt: 'This study investigated the effectiveness of visual training or verbal training on how to use a text-picture processing strategy for learning from computer-based multimedia instructional material.'
 date: 2023-12-30
