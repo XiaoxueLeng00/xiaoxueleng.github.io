@@ -8,7 +8,7 @@ date: 2023-07
 location: "Wuhan, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I worked as a teaching assistant from Sepmtember, 2022 to July, 2023.
 
 Heading 1
 ======
