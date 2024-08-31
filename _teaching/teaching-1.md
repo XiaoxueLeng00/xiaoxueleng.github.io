@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-1
 venue: "School of Psychology, Central China Normal University"
-date: 2023-07
+date: 2023-07-01
 location: "Wuhan, China"
 ---
 
