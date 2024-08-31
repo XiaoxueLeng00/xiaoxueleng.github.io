@@ -231,7 +231,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comments: true
   # _publications
   - scope:
@@ -240,7 +239,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comments: true
   # _research
   - scope:
@@ -249,7 +247,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comments: true
   # _portfolio
   - scope:
