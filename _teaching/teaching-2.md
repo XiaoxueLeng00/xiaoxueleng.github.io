@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience"
+title: "Safety & Technique Use"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-2
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Course"
+permalink: /teaching/teaching-2
+venue: "Laboratory Center,School of Psychology, Central China Normal University"
+date: 2023-12-01
 location: "City, Country"
 ---
 
