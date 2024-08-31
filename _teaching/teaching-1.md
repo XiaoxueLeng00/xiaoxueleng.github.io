@@ -9,12 +9,6 @@ location: "Wuhan, China"
 ---
 
 I worked as a teaching assistant from Sepmtember, 2022 to July, 2023.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Tutored more than 30 undergraduate students in quizzes, assignments, and projects for every two weeks
+- Prepared teaching materials (e.g., slides) and assignments
+- Gave marks on quizzes, assignments, and projects
