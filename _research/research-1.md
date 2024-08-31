@@ -1,14 +1,14 @@
 ---
-title: "How to train students to engage in text‐picture integration for multimedia lessons"
+title: "The Effect of Eye Movement Modeling Examples (EMME) in Video Learning "
 collection: research
 category: ongoing
 permalink: /research/research-1
-excerpt: 'This study investigated the effectiveness of visual training or verbal training on how to use a text-picture processing strategy for learning from computer-based multimedia instructional material.'
-date: 2023-12-30
-venue: 'British Journal of Educational Technology'
+excerpt: 'This project investigated the effectiveness of EMME compared to other instructional design and learning strategies.'
+date: 2021-03-01
+venue: 'Dr. Fuxing Wang, Dr. Richard Mayer, Tingting Zhao'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Leng, X., Wang, F., Mayer, R. E., & Zhao, T. (2024). How to train students to engage in text-picture integration for multimedia lessons. <i>British Journal of Educational Technology, 55</i>(3), 1167–1188.'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#citation: 'Leng, X., Wang, F., Mayer, R. E., & Zhao, T. (2024). How to train students to engage in text-picture integration for multimedia lessons. <i>British Journal of Educational Technology, 55</i>(3), 1167–1188.'
 ---
 
 In this paper, we attempted to compare the effectiveness of visual training (i.e., eye movement modeling examples) and verbal training on how to use a text-picture strategy for learning from computer-based multimedia materials.
