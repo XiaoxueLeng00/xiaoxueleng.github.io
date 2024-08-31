@@ -1,7 +1,7 @@
 ---
 title: "The Effect of Eye Movement Modeling Examples (EMME) in Video Learning "
 collection: research
-category: ongoing
+category: complete
 permalink: /research/research-1
 excerpt: 'This project investigated the effectiveness of EMME compared to other instructional design and learning strategies.'
 date: 2021-03-01
