@@ -7,7 +7,7 @@ excerpt: 'This study examined whether having the instructor wear a mask during a
 date: 2024-01-01
 venue: 'Applied Cognitive Psychology'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://xiaoxueleng00.github.io/files/ACP2024.pdf'
 citation: 'Leng, X., Wang, F., & Mayer, R. E. (2024). Is student learning from a video lecture affected by whether the instructor wears a mask? <i>Applied Cognitive Psychology, 38</i>(1), e4169.'
 ---
 
