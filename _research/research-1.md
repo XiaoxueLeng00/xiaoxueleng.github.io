@@ -19,6 +19,7 @@ My responsibility included: Reviewed relevant literature; designed experiments; 
 
 Outputs:
 
-1.Leng, X., Wang, F., Mayer, R. E., & Zhao, T. (2024). How to train students to engage in text-picture integration for multimedia lessons. <i>British Journal of Educational Technology, 55</i>(3), 1167–1188. https://doi.org/10.1111/bjet.13419
-2.Leng, X., Wang, F., Kuang, Z., & Zhao, T. (2023, September). <i>Eye movement modelling examples as cues to guide attention and improve learning in short or long animations.</i> The 9th China International Conference on Eye Movements, CICEM 2023, Tianjin, China.
-3.Leng, X., Zhao, T., & Wang, F. (2022, November). <i>The effects of eye movement modeling examples and verbal instruction in video learning.</i> The 24th National Academic Conference of Psychology, Xinxiang, Henan, China.
+1. Wang, F., Leng, X., Kuang, Z., & Zhao, T. Eye movement modelling examples as cues to guide attention and improve learning in short or long animations. Revised and resubmitted.
+2. Leng, X., Wang, F., Mayer, R. E., & Zhao, T. (2024). How to train students to engage in text-picture integration for multimedia lessons. <i>British Journal of Educational Technology, 55</i>(3), 1167–1188. https://doi.org/10.1111/bjet.13419
+3. Leng, X., Wang, F., Kuang, Z., & Zhao, T. (2023, September). <i>Eye movement modelling examples as cues to guide attention and improve learning in short or long animations.</i> The 9th China International Conference on Eye Movements, CICEM 2023, Tianjin, China.
+4. Leng, X., Zhao, T., & Wang, F. (2022, November). <i>The effects of eye movement modeling examples and verbal instruction in video learning.</i> The 24th National Academic Conference of Psychology, Xinxiang, Henan, China.
