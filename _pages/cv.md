@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Semp.2021 - Jun.2024: Research Assistant
+* Sept. 2021 - Jun. 2024: Research Assistant
   * Central China Normal University
   * Supervisor: Dr. Fuxing Wang
 
