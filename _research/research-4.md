@@ -8,6 +8,8 @@ date: 2023-06-01
 venue: 'Central China Normal University'
 ---
 
+The viewing perspective effect refers to the finding that students learn better from instructional videos recorded from first-person perspective than third-person perspective, but little is known about the neural mechanism underlying this effect.
+
 In this project, we:
 - Investigated whether learners perform better when learning from a first-person view than from a third-person view and compared learners’ brain activity under the two conditions by using fNIRS.
 
