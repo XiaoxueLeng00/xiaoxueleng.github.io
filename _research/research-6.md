@@ -8,7 +8,7 @@ date: 2024-06-02
 venue: 'Central China Normal University'
 ---
 
-Producing gestures promoted people comprehension of a spoken message effectively (Dragueet al., 2019). However, no previous studies have investigated whether producing gestures can facilitate children’s memory on route information. Does generating gestures improve children’s memory on route information?
+Producing gestures promoted people comprehension of a spoken message effectively (Drague et al., 2019). However, no previous studies have investigated whether producing gestures can facilitate children’s memory on route information. Does generating gestures improve children’s memory on route information?
 
 <i>Representational Mapping Hypothesis.</i> When there is a higher degree of mapping between gestures and mental representations, people gain more from gestures. Since different gestures matched different types of information (e.g., pointing gesture -- location), how different types of gestures (i.e., pointing, directional, and tracing) facilitate children’s recall on location and route items?
 
