@@ -2,7 +2,7 @@
 title: "The Effect of Viewing Perspectives in Learning from Instructional Videos"
 collection: research
 category: complete
-permalink: /research/research-4
+permalink: /research/research-6
 excerpt: 'This project investigated the neural mechanism of viewing perspective effect.'
 date: 2023-06-01
 venue: 'Central China Normal University'
