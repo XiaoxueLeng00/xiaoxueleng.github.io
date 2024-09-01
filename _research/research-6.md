@@ -4,8 +4,8 @@ collection: research
 category: onging
 permalink: /research/research-6
 excerpt: 'This project investigated the neural mechanism of viewing perspective effect.'
-date: 2023-06-01
-venue: 'Central China Normal University'
+date: 2024-03-01
+venue: 'Shaanxi Normal University'
 ---
 
 In this project, we:
