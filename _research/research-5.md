@@ -7,11 +7,3 @@ excerpt: 'This project investigated whether pedagogical agent's race influence 1
 date: 2024-04-02
 venue: 'Shaanxi Normal University'
 ---
-
-In this project, I worked with Dr. Ziyi Kuang at Shaanxi Normal University. 
-
-We:
-- Investigated whether students’ stereotype towards pedagogical agents influenced their learning;
-- Investigated whether pedagogical agent’s race influenced students’ learning interest and performance.
-
-My responsibility included: Reviewed relevant literature; designed experiments; analyzed data; wrote manuscript
