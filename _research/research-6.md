@@ -1,5 +1,5 @@
 ---
-title: "The Effect of Viewing Perspectives in Learning from Instructional Videos"
+title: "Does Pedagogical Agent’s Race Have an Impact on English Learning?"
 collection: research
 category: onging
 permalink: /research/research-6
