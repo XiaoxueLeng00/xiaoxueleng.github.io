@@ -11,9 +11,11 @@ venue: 'Central China Normal University'
 #citation: 'Leng, X., Wang, F., Mayer, R. E., & Zhao, T. (2024). How to train students to engage in text-picture integration for multimedia lessons. <i>British Journal of Educational Technology, 55</i>(3), 1167–1188.'
 ---
 
+Eye movement modeling examples (EMME) was an instructional technique that used an eye tracker to record the eye movements of models (usually people who are familiar with the task or learning material) as they learn or perform the task, which was then superimposed on the learning material and presented to learners for watching. EMME has been found to guide attention, convey cognitive strategies, and facilitate learning.
+
 In this project, we:
 - Investigated whether EMME can train learners to use text-picture processing strategy and compared the effectiveness of EMME and traditional verbal training on strategy training by using eye-tracking techniques;
-- Compared whether EMME is more beneficial on guiding attention and improving learning than traditional visual cues by using eye-tracking techniques.
+- Investigated whether EMME is more beneficial on guiding attention and improving learning than traditional visual cues by using eye-tracking techniques.
 
 My responsibility included: Reviewed relevant literature; designed experiments; collected and analyzed behavioral data and eye-tracking data; wrote manuscript
 
