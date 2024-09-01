@@ -7,6 +7,7 @@ excerpt: 'This project investigated the effectiveness of generative learning str
 date: 2021-09-01
 venue: 'Central China Normal University'
 ---
+Learning-by-teaching is a generative learning strategy in which students are asked to teach what they are learning to others.
 
 In this project, we:
 - Investigated how learning-by-teaching promotes learning and what are the boundary conditions;
