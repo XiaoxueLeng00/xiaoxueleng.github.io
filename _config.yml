@@ -56,9 +56,9 @@ publication_category:
 
 research_category:
   ongoing:
-    title: 'Ongoing Research'
+    title: 'Ongoing Projects'
   complete:
-    title: 'Complete Research'    
+    title: 'Complete Projects'    
   
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
