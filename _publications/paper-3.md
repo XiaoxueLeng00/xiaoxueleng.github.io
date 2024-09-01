@@ -7,7 +7,7 @@ excerpt: 'This study investigates the underlying neural mechanism of the viewing
 date: 2024-08-01
 venue: 'Learning and Instruction'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://xiaoxueleng00.github.io/files/LI2024.pdf'
 citation: 'Leng, X., Zhu, W., Mayer, R. E., & Wang, F. (2024). The viewing perspective effect in learning from instructional videos: A replication and neuroimaging extension. <i>Learning and Instruction, 94</i>, 102004.'
 ---
 
