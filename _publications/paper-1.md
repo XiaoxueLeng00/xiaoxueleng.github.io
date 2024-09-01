@@ -7,7 +7,7 @@ excerpt: 'This study investigated the effectiveness of visual training or verbal
 date: 2023-12-30
 venue: 'British Journal of Educational Technology'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://xiaoxueleng00.github.io/files/BJET2024.pdf'
 citation: 'Leng, X., Wang, F., Mayer, R. E., & Zhao, T. (2024). How to train students to engage in text-picture integration for multimedia lessons. <i>British Journal of Educational Technology, 55</i>(3), 1167–1188.'
 ---
 
