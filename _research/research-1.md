@@ -11,8 +11,14 @@ venue: 'Central China Normal University'
 #citation: 'Leng, X., Wang, F., Mayer, R. E., & Zhao, T. (2024). How to train students to engage in text-picture integration for multimedia lessons. <i>British Journal of Educational Technology, 55</i>(3), 1167–1188.'
 ---
 
-In this paper, we attempted to compare the effectiveness of visual training (i.e., eye movement modeling examples) and verbal training on how to use a text-picture strategy for learning from computer-based multimedia materials.
+In this project, we:
+- Investigated whether EMME can train learners to use text-picture processing strategy and compared the effectiveness of EMME and traditional verbal training on strategy training by using eye-tracking techniques;
+- Compared whether EMME is more beneficial on guiding attention and improving learning than traditional visual cues by using eye-tracking techniques.
 
-Sixty-nine university students were randomly assigned to three groups: the verbal training group (students received text-based instruction for a text-picture processing strategy), the visual training group (students observed a video depicting an expert's eye fixations while using a text-picture processing strategy for an initial portion of a multimedia lesson) or the control group (students did not receive any instruction). Students firstly acquired new strategies, and then learned a new material. 
+My responsibility included: Reviewed relevant literature; designed experiments; collected and analyzed behavioral data and eye-tracking data; wrote manuscript
 
-Results showed that, on learning outcomes, both visual and verbal training helped students perform better than the control group on a recall test and the verbal training group perform better on a transfer test. Concerning learning processes, both visual andverbal training caused students to attend less to on-screen text and more to on-screen pictures as compared to the control group. Mediation analysis showed that increased attention to pictures was a mediator for better learning outcomes.
+Outputs:
+
+1.Leng, X., Wang, F., Mayer, R. E., & Zhao, T. (2024). How to train students to engage in text-picture integration for multimedia lessons. <i>British Journal of Educational Technology, 55</i>(3), 1167–1188. https://doi.org/10.1111/bjet.13419
+2.Leng, X., Wang, F., Kuang, Z., & Zhao, T. (2023, September). <i>Eye movement modelling examples as cues to guide attention and improve learning in short or long animations.</i> The 9th China International Conference on Eye Movements, CICEM 2023, Tianjin, China.
+3.Leng, X., Zhao, T., & Wang, F. (2022, November). <i>The effects of eye movement modeling examples and verbal instruction in video learning.</i> The 24th National Academic Conference of Psychology, Xinxiang, Henan, China.
