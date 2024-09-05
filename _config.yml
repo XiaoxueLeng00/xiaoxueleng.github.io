@@ -196,7 +196,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  work:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -228,6 +228,14 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+  # _worl
+  - scope:
+      path: ""
+      type: work
     values:
       layout: single
       author_profile: true
