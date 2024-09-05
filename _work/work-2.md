@@ -3,7 +3,7 @@ title: "Journal of Undergraduates of Central China Normal University"
 collection: work
 type: "Editor"
 permalink: /work/work-2
-venue: "School of Psychology, Central China Normal University"
+venue: "Central China Normal University"
 date: 2020-07-01
 location: "Wuhan, China"
 ---
