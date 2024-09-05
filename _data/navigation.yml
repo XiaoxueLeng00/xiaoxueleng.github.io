@@ -13,6 +13,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Work"
+    url: /work/    
     
   - title: "CV"
     url: /cv/
