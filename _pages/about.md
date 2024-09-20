@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Xiaoxue Leng, now working at University of Staying at Home.
 
-I'm very interested in science of learning and how to promote people's effective learning. Specifically, I'm working on optimizing instructional guidance, finding out effective learning strategies, and also, exploring the underlying mechanisms of learning. How to better present or design to make learners learn more efficiently? What learning strategies are useful in certain conditions? How to teach and promote people to use these strategies? And how do students moniter and self regulate the learning process?
+I'm very interested in science of learning and how to promote people's effective learning. Specifically, I'm working on optimizing instructional guidance, finding out effective learning strategies, and also, exploring the underlying mechanisms of learning. How to better present or design to make learners learn more efficiently? What learning strategies are useful in certain conditions? How to promote their use of these strategies? And how do students moniter and self regulate the learning process?
 
 My research interescts also include learning with new technologies. The development of technologies such as AI or GPT has provided us new ways of learning, making learning more efficient and changing people's learning styles. How to use these technologies for people's effecitve learning? Sometimes, ChatGPT can provide wrong answers (e.g., ChatGPT may tell us 9.11 is greater than 9.8). How can we evaluate whether it's a truth or a misinformation? What can we do to use new technologies more efficiently?
 
